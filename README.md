@@ -1,17 +1,11 @@
 <!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
 <a name="readme-top"></a>
 
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
   <a href="https://socialpower.click">
-    <img src="read/coin-logo.png" alt="Logo" width="120" height="120">
+    <img src="read/coin-logo.jpg" alt="Logo" width="120" height="120">
   </a>
 
   <h3 align="center">Social Power</h3>
