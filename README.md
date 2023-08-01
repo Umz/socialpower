@@ -41,8 +41,8 @@ Notes:
 
 ### Built With
 
-Bard.
-Bing.
-ChatGPT.
+* Bard.
+* Bing.
+* phind.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
